@@ -3,3 +3,4 @@ helloworld
 haohao xuexi 
 gfg
 python基础知识点整理
+create database demo charset=utf8;
